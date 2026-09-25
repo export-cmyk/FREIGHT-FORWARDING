@@ -1,0 +1,8 @@
+{
+  "name": "Remix FREIGHTREE LLP",
+  "description": "Professional India-based logistics and freight forwarding company providing Ocean Freight, Air Freight, Customs Clearance, Export Documentation, and Multi-Carrier Main Line Container Tracking (Maersk, MSC, CMA CGM, COSCO, ONE Line).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
